@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Surbhi Sawan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surbhisawan&label=Profile%20views&color=0e75b6&style=flat" alt="surbhisawan" /> </p>
 
-- 🔭 I’m currently working on **Java language**
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
+- 🌱 I’m currently learning **Data Structure and Algorithms and Java Language**
 
 - 📫 How to reach me **sawansurbhi22@gmail.com**
 
