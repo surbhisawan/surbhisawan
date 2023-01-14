@@ -2,11 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surbhisawan&label=Profile%20views&color=0e75b6&style=flat" alt="surbhisawan" /> </p>
 
 
-- 🌱 I’m currently learning **Data Structure and Algorithms**
-
 - 📫 How to reach me **sawansurbhi22@gmail.com**
-
-- ⚡ Fun fact **I want to become Singer and I believe that one day i will.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
